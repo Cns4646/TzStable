@@ -1,0 +1,11 @@
+{
+  "update_data": {
+    "update_version": 4.1,
+    "update_message": "စမ်းသပ်နေဆဲ",
+    "update_dl_link": ""
+  },
+  "maintenance": {
+    "maintenance": false,
+    "maintenance_message": "ပိတ်ထားတယ်"
+  }
+}
