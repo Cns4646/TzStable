@@ -5,7 +5,7 @@
     "update_dl_link": ""
   },
   "maintenance": {
-    "maintenance": true,
+    "maintenance": false,
     "maintenance_message": "စိတ်မကောင်းစွာဖြင့် 4.1 ကို ပိတ်လိုက်ပါပြီ ခင်ဗျာ"
   }
 }
